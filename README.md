@@ -1,4 +1,4 @@
-#Java Concepts Demo
+# Java Concepts Demo
 
 This repository provides working examples for various key Java concepts including Dependency Injection (DI), Loose vs Tight Coupling, Inversion of Control (IoC), Autowiring, and more. 
 The examples are designed to help you understand these concepts in a practical and clear manner using code snippets.
